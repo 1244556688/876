@@ -1,0 +1,3 @@
+body { font-family: 'Inter', sans-serif; }
+::-webkit-scrollbar { height: 6px; }
+::-webkit-scrollbar-thumb { background: #00bfff44; border-radius: 10px; }
